@@ -3,8 +3,7 @@
 
 📨 Você pode conversar comigo pelo 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/gustavo-oliveira-263832352/) 
-ou me enviar um 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" height="20"/>](mailto:g.oliveiraa2007@gmail.com)
+ou me enviar um email: <g.oliveiraa2007@gmail.com>
 
 
 <div align="left">
