@@ -1,5 +1,5 @@
 # 💫 Be welcome,
-I'm a Software Engineering student currently focused on back-end development, working mainly with Python and C#.<br><br>I'm passionate about building robust, scalable systems and continuously improving my skills in software architecture, clean code, and modern development practices.<br><br>📫 Feel free to reach out:<br><br>LinkedIn: linkedin.com/in/gustavo-oliveira-263832352<br><br>Email: g.oliveiraa2007@gmail.com
+I'm a Software Engineering student currently focused on back-end development, working mainly with Python and C#.<br><br>I'm passionate about building robust, scalable systems and continuously improving my skills in software architecture, clean code, and modern development practices.<br><br>📫 Feel free to reach out:<br><br>LinkedIn: linkedin.com/in/oliveira-gustavoo<br><br>Email: g.oliveiraa2007@gmail.com
 
 
 # 💻 Tech Stack:
